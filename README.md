@@ -3,6 +3,24 @@
 ## Overview
 This is a Spring Boot application that provides services for managing purchases. It uses Maven, Actuator, and OpenAPI 3.
 
+
+---
+
+## 📚 Documentation & Specifications
+
+This project follows **Specification-Driven Development**. Start here:
+
+- **[SPEC.md](SPEC.md)** - Technical specification and architecture
+- **[.instructions.md](.instructions.md)** - Development guidelines and patterns
+- **[.agent.md](.agent.md)** - AI agent configuration (Claude, Cursor, etc.)
+
+**Quick Links**:
+- Architecture: [See SPEC.md](SPEC.md#3-architecture) or [See SPEC.md](SPEC.md#architecture)
+- Development Workflow: [See .instructions.md](.instructions.md)
+- AI Usage: [See .agent.md](.agent.md)
+
+---
+
 ## Prerequisites
 - Java 17
 - Maven 3.8.4+
